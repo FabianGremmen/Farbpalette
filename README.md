@@ -1,4 +1,4 @@
 # Farbpalette
 TestRepo
 
-Is just a test Repo
+Is just a Test for School and get familiar with GitHub
